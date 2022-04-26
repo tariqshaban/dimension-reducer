@@ -170,11 +170,11 @@ similar to the following:
 
 > ![tsne_dimensionality_reduction.png](assets/images/tsne_dimensionality_reduction.png)
 >
-> The TSNE technique did not succeed in differentiating between class 5 and 6.
+> The TSNE technique did not succeed in differentiating between class 4 and 5.
 
 > ![umap_dimensionality_reduction.png](assets/images/umap_dimensionality_reduction.png)
 > 
-> The UMAP technique did not succeed in differentiating between class 5 and 6, also, class 1 appears to be more sparse.
+> The UMAP technique did not succeed in differentiating between class 4 and 5, also, class 1 appears to be more sparse.
 
 > ![trimap_dimensionality_reduction.png](assets/images/trimap_dimensionality_reduction.png)
 > 
